@@ -4,7 +4,6 @@
 """
 
 
-if __name__ == "__main__":
-    def add(a: float, b: float) -> float:
-        """takes two floats as arguments and returns their sum as a float"""
-        return a + b
+def add(a: float, b: float) -> float:
+    """takes two floats as arguments and returns their sum as a float"""
+    return a + b
